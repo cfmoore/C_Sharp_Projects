@@ -1,0 +1,7 @@
+Hello, this is the start of the test
+This line will not have a return until one is put in it.  Notice how 
+ this jumps in the middle.
+We are now appending lines to the text file
+0
+We are now appending lines to the text file
+1

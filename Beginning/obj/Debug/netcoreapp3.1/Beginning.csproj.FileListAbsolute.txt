@@ -1,0 +1,14 @@
+C:\Users\chad.moore\source\repos\Beginning\bin\Debug\netcoreapp3.1\Beginning.exe
+C:\Users\chad.moore\source\repos\Beginning\bin\Debug\netcoreapp3.1\Beginning.deps.json
+C:\Users\chad.moore\source\repos\Beginning\bin\Debug\netcoreapp3.1\Beginning.runtimeconfig.json
+C:\Users\chad.moore\source\repos\Beginning\bin\Debug\netcoreapp3.1\Beginning.runtimeconfig.dev.json
+C:\Users\chad.moore\source\repos\Beginning\bin\Debug\netcoreapp3.1\Beginning.dll
+C:\Users\chad.moore\source\repos\Beginning\bin\Debug\netcoreapp3.1\Beginning.pdb
+C:\Users\chad.moore\source\repos\Beginning\obj\Debug\netcoreapp3.1\Beginning.csproj.AssemblyReference.cache
+C:\Users\chad.moore\source\repos\Beginning\obj\Debug\netcoreapp3.1\Beginning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chad.moore\source\repos\Beginning\obj\Debug\netcoreapp3.1\Beginning.AssemblyInfoInputs.cache
+C:\Users\chad.moore\source\repos\Beginning\obj\Debug\netcoreapp3.1\Beginning.AssemblyInfo.cs
+C:\Users\chad.moore\source\repos\Beginning\obj\Debug\netcoreapp3.1\Beginning.csproj.CoreCompileInputs.cache
+C:\Users\chad.moore\source\repos\Beginning\obj\Debug\netcoreapp3.1\Beginning.dll
+C:\Users\chad.moore\source\repos\Beginning\obj\Debug\netcoreapp3.1\Beginning.pdb
+C:\Users\chad.moore\source\repos\Beginning\obj\Debug\netcoreapp3.1\Beginning.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+   **************************************************************************************************************************************************
+   System.IO.IOException: The process cannot access the file 'C:\Users\chad.moore\source\repos\Beginning\test.txt' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.ReadLines(String path)
+   at Beginning.FileIO.runner() in C:\Users\chad.moore\source\repos\Beginning\FileIO.cs:line 31
+System.InvalidCastException: Unable to cast object of type 'System.IO.ReadLinesIterator' to type 'System.IO.StreamReader'.
+   at Beginning.FileIO.runner() in C:\Users\chad.moore\source\repos\Beginning\FileIO.cs:line 29
+System.InvalidCastException: Unable to cast object of type 'System.IO.ReadLinesIterator' to type 'System.IO.StreamReader'.
+   at Beginning.FileIO.runner() in C:\Users\chad.moore\source\repos\Beginning\FileIO.cs:line 29
